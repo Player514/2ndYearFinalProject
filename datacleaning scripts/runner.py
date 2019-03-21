@@ -8,7 +8,7 @@ import math
 
 
 
-with open('../phase1_movie_reviews-train.csv') as csv_file:
+with open('phase1_movie_reviews-train.csv') as csv_file:
 
 	bow = {}
 
